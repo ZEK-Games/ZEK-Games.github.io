@@ -82,6 +82,7 @@ mintegral.com, 12101, RESELLER
 mobfox.com, 44666, RESELLER
 google.com, pub-8452579215562824, RESELLER, f08c47fec0942fa0
 google.com, pub-1467174215800884, RESELLER
+google.com, pub-1624677269322206, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 21604, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1430, RESELLER
 smartadserver.com, 1289, RESELLER  
