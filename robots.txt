@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zek-games.github.io/sitemap.xml
